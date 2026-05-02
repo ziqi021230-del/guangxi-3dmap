@@ -1,0 +1,118 @@
+[
+  {
+    "id": "2-2",
+    "ebookId": "2-2",
+    "title": "自然地理-山水形胜",
+    "chapter": "序篇",
+    "description": "广西壮族自治区地处中国南疆，北倚云贵高原，南临北部湾，地貌以喀斯特峰林、丘陵、河谷和平原为主，素有“八山一水一分田”之称。境内漓江、左江、右江等水系纵横交错，桂林山水、德天瀑布、乐业天坑等自然奇观闻名世界，是中国南方重要的生态屏障与生物多样性热点区域。",
+    "flag": "/assets/flags/shanhuixingsheng.jpg",
+    "map": "/assets/maps/shanhuixingsheng.jpg",
+    "keywords": [
+      "#自然地理",
+      "#生态多样性",
+      "#广西壮族自治区"
+    ],
+    "bounds": [
+      103.43,
+      16,
+      113.07,
+      30
+    ],
+    "center": [
+      108.8,
+      23.9
+    ],
+    "zoom": 5.5,
+    "minzoom": 5.5,
+    "maxzoom": 16,
+    "bearing": 0,
+    "pitch": 0,
+    "stylejson": {
+      "name": "资源概览",
+      "styleUrl": "/assets/styles/自然资源_rr3.json",
+      "legend": "resources"
+    },
+    "sublayers": [
+      {
+        "name": "资源概览",
+        "styleUrl": "/assets/styles/自然资源_rr3.json",
+        "legend": "resources"
+      },
+      {
+        "name": "山",
+        "styleUrl": "/assets/styles/shanhuixingsheng/resources-hill.json",
+        "legend": "山"
+      },
+      {
+        "name": "林地",
+        "styleUrl": "/assets/styles/shanhuixingsheng/resources-forests.json",
+        "legend": "林地"
+      },
+      {
+        "name": "草地",
+        "styleUrl": "/assets/styles/shanhuixingsheng/resources-grass.json",
+        "legend": "草地"
+      },
+      {
+        "name": "耕地",
+        "styleUrl": "/assets/styles/shanhuixingsheng/resources-farmland.json",
+        "legend": "耕地"
+      },
+      {
+        "name": "河流",
+        "styleUrl": "/assets/styles/shanhuixingsheng/resources-river.json",
+        "legend": "河流"
+      }
+    ],
+    "images": [
+      "/assets/media/shanshuixingsheng/1广西自然资源分布-山/1广西自然资源分布-山.dzi",
+      "/assets/media/shanshuixingsheng/2广西自然资源分布-水/2广西自然资源分布-水.dzi",
+      "/assets/media/shanshuixingsheng/3广西自然资源分布-林/3广西自然资源分布-林.dzi",
+      "/assets/media/shanshuixingsheng/4广西自然资源分布-田/4广西自然资源分布-田.dzi",
+      "/assets/media/shanshuixingsheng/5广西自然资源分布-湖/5广西自然资源分布-湖.dzi",
+      "/assets/media/shanshuixingsheng/6广西自然资源分布-草/6广西自然资源分布-草.dzi",
+      "/assets/media/shanshuixingsheng/广西自然资源分布底图/广西自然资源分布底图.dzi",
+      "/assets/media/shanshuixingsheng/山水林田湖草/山水林田湖草.dzi"
+    ]
+  },
+  {
+    "id": "5-1",
+    "ebookId": "5-1",
+    "title": "城市名片-南宁",
+    "chapter": "序篇",
+    "description": "南宁市，简称“邕”，古称邕州，别称绿城，广西壮族自治区辖地级市、首府，Ⅰ型大城市，位于广西壮族自治区中部偏南，面向东南亚，背靠大西南，东邻粤港澳，南临北部湾，地形是以邕江广大河谷为中心的盆地形态，该盆地向东开口，南、北、西三面均为山地围绕，属亚热带季风气候，降水充沛，总面积2.21万平方千米。",
+    "flag": "/assets/flags/nanning.jpg",
+    "map": "/assets/maps/nanning.jpg",
+    "keywords": [
+      "#南宁",
+      "#中国绿城",
+      "#广西壮族自治区"
+    ],
+    "bounds": [
+      108.15,
+      22.65,
+      108.51,
+      22.93
+    ],
+    "center": [
+      108.36,
+      22.79
+    ],
+    "zoom": 12.9,
+    "minzoom": 11.5,
+    "maxzoom": 18,
+    "bearing": 0,
+    "pitch": 60,
+    "stylejson": {
+      "name": "南宁城市名片",
+      "styleUrl": "/assets/styles/南宁城市r3.json",
+      "legend": ""
+    },
+    "images": [
+      "/assets/media/nanning/南宁1右/南宁1右.dzi",
+      "/assets/media/nanning/南宁1右全/南宁1右全.dzi",
+      "/assets/media/nanning/南宁1左/南宁1左.dzi",
+      "/assets/media/nanning/南宁2/南宁2.dzi"
+    ]
+  }
+]

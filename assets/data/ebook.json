@@ -1,0 +1,430 @@
+[
+  {
+    "id": "01",
+    "title": "01序篇",
+    "items": [
+      {
+        "id": "1",
+        "title": "扉页",
+        "description": "广西实景三维建设实绩",
+        "keywords": ["广西", "实景三维"],
+        "dziUrl": "/assets/ebook/1.扉页/1.扉页.dzi",
+        "webpUrl": "/assets/ebook/webp/1.扉页.webp",
+        "thumbnail": "/assets/flags/1.扉页.webp"
+      },
+      {
+        "id": "1-1",
+        "title": "从平面到立体：广西实景三维建设历程",
+        "description": "广西实景三维建设历程——从平面到立体",
+        "keywords": ["实景三维", "数字孪生"],
+        "dziUrl": "/assets/ebook/1-1.序篇1/1-1.序篇1.dzi",
+        "webpUrl": "/assets/ebook/webp/1-1.序篇1.webp",
+        "thumbnail": "/assets/flags/1-1.序篇1.webp"
+      },
+      {
+        "id": "1-2",
+        "title": "从数据到场景：广西实景三维应用成效",
+        "description": "广西实景三维应用成效——从数据到场景",
+        "keywords": ["实景三维", "智慧城市", "空间治理"],
+        "dziUrl": "/assets/ebook/1-2.序篇2/1-2.序篇2.dzi",
+        "webpUrl": "/assets/ebook/webp/1-2.序篇2.webp",
+        "thumbnail": "/assets/flags/1-2.序篇2.webp"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "title": "02自然地理篇",
+    "items": [
+      {
+        "id": "2",
+        "title": "扉页",
+        "description": "地表格局的“数字印象”",
+        "keywords": ["自然地理", "数字高程", "地表建模"],
+        "dziUrl": "/assets/ebook/2.扉页/2.扉页.dzi",
+        "webpUrl": "/assets/ebook/webp/2.扉页.webp",
+        "thumbnail": "/assets/flags/2.扉页.webp"
+      },
+      {
+        "id": "2-1",
+        "title": "山水形胜",
+        "description": "广西地势区位示意、广西地势",
+        "keywords": ["地形地貌", "区域地理", "地势分析"],
+        "dziUrl": "/assets/ebook/2-1.山水形胜1/2-1.山水形胜1.dzi",
+        "webpUrl": "/assets/ebook/webp/2-1.山水形胜1.webp",
+        "thumbnail": "/assets/flags/2-1.山水形胜1.webp"
+      },
+      {
+        "id": "2-2",
+        "itemId": "2-2",
+        "title": "山水形胜",
+        "description": "广西自然资源分布",
+        "keywords": ["自然资源", "资源分布"],
+        "dziUrl": "/assets/ebook/2-2山水形胜2/2-2山水形胜2.dzi",
+        "webpUrl": "/assets/ebook/webp/2-2山水形胜2.webp",
+        "thumbnail": "/assets/flags/2-2山水形胜2.webp"
+      },
+      {
+        "id": "2-3",
+        "title": "写意山水",
+        "description": "地文生态景观",
+        "keywords": ["生态景观", "山水美学", "自然遗产"],
+        "dziUrl": "/assets/ebook/2-3.写意山水/2-3.写意山水.dzi",
+        "webpUrl": "/assets/ebook/webp/2-3.写意山水.webp",
+        "thumbnail": "/assets/flags/2-3.写意山水.webp"
+      },
+      {
+        "id": "2-4",
+        "title": "地貌景观",
+        "description": "广西主要喀斯特地貌类型",
+        "keywords": ["喀斯特地貌", "地质景观"],
+        "dziUrl": "/assets/ebook/2-4.地貌景观1/2-4.地貌景观1.dzi",
+        "webpUrl": "/assets/ebook/webp/2-4.地貌景观1.webp",
+        "thumbnail": "/assets/flags/2-4.地貌景观1.webp"
+      },
+      {
+        "id": "2-5",
+        "title": "地貌景观",
+        "description": "广西喀斯特地貌分布图",
+        "keywords": ["喀斯特分布", "岩溶地貌"],
+        "dziUrl": "/assets/ebook/2-4.地貌景观2/2-4.地貌景观2.dzi",
+        "webpUrl": "/assets/ebook/webp/2-4.地貌景观2.webp",
+        "thumbnail": "/assets/flags/2-4.地貌景观2.webp"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "title": "03资源管理篇",
+    "items": [
+      {
+        "id": "3",
+        "title": "扉页",
+        "description": "自然资源管理的“空间智核”",
+        "keywords": ["资源管理", "空间智能", "国土空间规划"],
+        "dziUrl": "/assets/ebook/3.扉页/3.扉页.dzi",
+        "webpUrl": "/assets/ebook/webp/3.扉页.webp",
+        "thumbnail": "/assets/flags/3.扉页.webp"
+      },
+      {
+        "id": "3-1",
+        "title": "国土空间规划-村庄规划",
+        "description": "崇左卜花村村庄规划",
+        "keywords": ["乡村振兴", "村庄规划", "乡村治理"],
+        "dziUrl": "/assets/ebook/3-1.村庄规划-崇左卜花村村庄规划/3-1.村庄规划-崇左卜花村村庄规划.dzi",
+        "webpUrl": "/assets/ebook/webp/3-1.村庄规划-崇左卜花村村庄规划.webp",
+        "thumbnail": "/assets/flags/3-1.村庄规划-崇左卜花村村庄规划.webp"
+      },
+      {
+        "id": "3-2",
+        "title": "生态修复-贺州矿山生态修复工程",
+        "description": "贺州足球小镇实景三维鸟瞰图",
+        "keywords": ["矿山修复", "生态重建"],
+        "dziUrl": "/assets/ebook/3-2.矿山修复-贺州足球小镇实景三维鸟瞰图/3-2.矿山修复-贺州足球小镇实景三维鸟瞰图.dzi",
+        "webpUrl": "/assets/ebook/webp/3-2.矿山修复-贺州足球小镇实景三维鸟瞰图.webp",
+        "thumbnail": "/assets/flags/3-2.矿山修复-贺州足球小镇实景三维鸟瞰图.webp"
+      },
+      {
+        "id": "3-3",
+        "title": "生态修复-漓江流域修复工程",
+        "description": "漓江流域修复工程",
+        "keywords": ["生态修复", "流域治理"],
+        "dziUrl": "/assets/ebook/3-3.生态修复-漓江流域修复工程/3-3.生态修复-漓江流域修复工程.dzi",
+        "webpUrl": "/assets/ebook/webp/3-3.生态修复-漓江流域修复工程.webp",
+        "thumbnail": "/assets/flags/3-3.生态修复-漓江流域修复工程.webp"
+      },
+      {
+        "id": "3-4",
+        "title": "生态产品价值实现-广西北海",
+        "description": "广西北海冯家江生态治理与综合开发",
+        "keywords": ["生态治理", "城市更新"],
+        "dziUrl": "/assets/ebook/3-4.综合治理-广西北海冯家江生态治理与综合开发/3-4.综合治理-广西北海冯家江生态治理与综合开发.dzi",
+        "webpUrl": "/assets/ebook/webp/3-4.综合治理-广西北海冯家江生态治理与综合开发.webp",
+        "thumbnail": "/assets/flags/3-4.综合治理-广西北海冯家江生态治理与综合开发.webp"
+      },
+      {
+        "id": "3-5",
+        "title": "高山农业-百色乐业县",
+        "description": "百色市乐业县高山农业生态产品价值实现案例",
+        "keywords": ["高山农业", "生态产品", "绿色经济"],
+        "dziUrl": "/assets/ebook/3-5.高山农业-百色市乐业县高山农业生态产品价值实现案例/3-5.高山农业-百色市乐业县高山农业生态产品价值实现案例.dzi",
+        "webpUrl": "/assets/ebook/webp/3-5.高山农业-百色市乐业县高山农业生态产品价值实现案例.webp",
+        "thumbnail": "/assets/flags/3-5.高山农业-百色市乐业县高山农业生态产品价值实现案例.webp"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "title": "04底线发展篇",
+    "items": [
+      {
+        "id": "4",
+        "title": "扉页",
+        "description": "重大工程建设的“立体智擎”",
+        "keywords": ["基础设施", "智慧建造"],
+        "dziUrl": "/assets/ebook/4.扉页/4.扉页.dzi",
+        "webpUrl": "/assets/ebook/webp/4.扉页.webp",
+        "thumbnail": "/assets/flags/4.扉页.webp"
+      },
+      {
+        "id": "4-1",
+        "title": "平陆运河世纪工程建设",
+        "description": "平陆运河全景",
+        "keywords": ["平陆运河", "内河航运"],
+        "dziUrl": "/assets/ebook/4-1.平陆运河世纪工程建设/4-1.平陆运河世纪工程建设.dzi",
+        "webpUrl": "/assets/ebook/webp/4-1.平陆运河世纪工程建设.webp",
+        "thumbnail": "/assets/flags/4-1.平陆运河世纪工程建设.webp"
+      },
+      {
+        "id": "4-2",
+        "title": "桂林世界级旅游城市建设",
+        "description": "桂林世界级旅游城市建设",
+        "keywords": ["桂林", "旅游城市建设"],
+        "dziUrl": "/assets/ebook/4-1.平陆运河世纪工程建设/4-1.平陆运河世纪工程建设.dzi",
+        "webpUrl": "/assets/ebook/webp/4-1.平陆运河世纪工程建设.webp",
+        "thumbnail": "/assets/flags/4-1.平陆运河世纪工程建设.webp"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "title": "05城市名片篇",
+    "items": [
+      {
+        "id": "5",
+        "title": "扉页",
+        "description": "解锁城市文化的“立体视角”",
+        "keywords": ["城市文化", "三维可视化", "城市名片"],
+        "dziUrl": "/assets/ebook/5.扉页/5.扉页.dzi",
+        "webpUrl": "/assets/ebook/webp/5.扉页.webp",
+        "thumbnail": "/assets/flags/5.扉页.webp"
+      },
+      {
+        "id": "5-1",
+        "itemId": "5-1",
+        "title": "南宁",
+        "description": "南宁核心商圈分布图",
+        "keywords": ["南宁", "城市商圈", "商业布局"],
+        "dziUrl": "/assets/ebook/5-1.南宁1右/5-1.南宁1右.dzi",
+        "webpUrl": "/assets/ebook/webp/5-1.南宁1右.webp",
+        "thumbnail": "/assets/flags/5-1.南宁1右.webp"
+      },
+      {
+        "id": "5-2",
+        "title": "南宁",
+        "description": "南宁地形地貌",
+        "keywords": ["南宁", "地形地貌", "城市地理"],
+        "dziUrl": "/assets/ebook/5-1.南宁1左/5-1.南宁1左.dzi",
+        "webpUrl": "/assets/ebook/webp/5-1.南宁1左.webp",
+        "thumbnail": "/assets/flags/5-1.南宁1左.webp"
+      },
+      {
+        "id": "5-3",
+        "title": "南宁",
+        "description": "民族大道南宁的大动脉",
+        "keywords": ["城市干道", "交通动脉"],
+        "dziUrl": "/assets/ebook/5-2.南宁2/5-2.南宁2.dzi",
+        "webpUrl": "/assets/ebook/webp/5-2.南宁2.webp",
+        "thumbnail": "/assets/flags/5-2.南宁2.webp"
+      },
+      {
+        "id": "5-4",
+        "title": "柳州",
+        "description": "柳州揽胜",
+        "keywords": ["柳州", "城市风貌"],
+        "dziUrl": "/assets/ebook/5-3.柳州1/5-3.柳州1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-3.柳州1.webp",
+        "thumbnail": "/assets/flags/5-3.柳州1.webp"
+      },
+      {
+        "id": "5-5",
+        "title": "柳州",
+        "description": "柳州程阳八寨实景三维图、侗族聚落分布图、程阳八寨示意图",
+        "keywords": ["侗族文化", "传统村落", "民族建筑"],
+        "dziUrl": "/assets/ebook/5-4.柳州2/5-4.柳州2.dzi",
+        "webpUrl": "/assets/ebook/webp/5-4.柳州2.webp",
+        "thumbnail": "/assets/flags/5-4.柳州2.webp"
+      },
+      {
+        "id": "5-6",
+        "title": "桂林",
+        "description": "“江源多桂，不生杂木。故秦时立为桂林郡也”",
+        "keywords": ["桂林", "历史文化", "山水甲天下"],
+        "dziUrl": "/assets/ebook/5-5.桂林/5-5.桂林.dzi",
+        "webpUrl": "/assets/ebook/webp/5-5.桂林.webp",
+        "thumbnail": "/assets/flags/5-5.桂林.webp"
+      },
+      {
+        "id": "5-7",
+        "title": "梧州",
+        "description": "千年岭南重镇、百年两广商埠",
+        "keywords": ["梧州", "岭南文化", "商贸历史"],
+        "dziUrl": "/assets/ebook/5-6.梧州1/5-6.梧州1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-6.梧州1.webp",
+        "thumbnail": "/assets/flags/5-6.梧州1.webp"
+      },
+      {
+        "id": "5-8",
+        "title": "梧州",
+        "description": "梧州茶船古道",
+        "keywords": ["茶船古道", "海上丝路", "文化遗产"],
+        "dziUrl": "/assets/ebook/5-7.梧州2/5-7.梧州2.dzi",
+        "webpUrl": "/assets/ebook/webp/5-7.梧州2.webp",
+        "thumbnail": "/assets/flags/5-7.梧州2.webp"
+      },
+      {
+        "id": "5-9",
+        "title": "北海",
+        "description": "北海千年珠港",
+        "keywords": ["北海", "港口历史"],
+        "dziUrl": "/assets/ebook/5-8.北海1/5-8.北海1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-8.北海1.webp",
+        "thumbnail": "/assets/flags/5-8.北海1.webp"
+      },
+      {
+        "id": "5-10",
+        "title": "北海",
+        "description": "北海千年珠港",
+        "keywords": ["北海", "古代港口"],
+        "dziUrl": "/assets/ebook/5-9.北海2-1/5-9.北海2-1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-9.北海2-1.webp",
+        "thumbnail": "/assets/flags/5-9.北海2-1.webp"
+      },
+      {
+        "id": "5-11",
+        "title": "北海",
+        "description": "广西在古代海上丝绸之路区位",
+        "keywords": ["海上丝路", "区位优势"],
+        "dziUrl": "/assets/ebook/5-9.北海2-2/5-9.北海2-2.dzi",
+        "webpUrl": "/assets/ebook/webp/5-9.北海2-2.webp",
+        "thumbnail": "/assets/flags/5-9.北海2-2.webp"
+      },
+      {
+        "id": "5-12",
+        "title": "防城港",
+        "description": "俯瞰防城港",
+        "keywords": ["防城港", "港口城市"],
+        "dziUrl": "/assets/ebook/5-10.防城港1/5-10.防城港1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-10.防城港1.webp",
+        "thumbnail": "/assets/flags/5-10.防城港1.webp"
+      },
+      {
+        "id": "5-13",
+        "title": "防城港",
+        "description": "港口新城",
+        "keywords": ["防城港", "新城建设"],
+        "dziUrl": "/assets/ebook/5-11.防城港2/5-11.防城港2.dzi",
+        "webpUrl": "/assets/ebook/webp/5-11.防城港2.webp",
+        "thumbnail": "/assets/flags/5-11.防城港2.webp"
+      },
+      {
+        "id": "5-14",
+        "title": "钦州",
+        "description": "岭南古郡，英雄故里，千年陶都，海豚家园",
+        "keywords": ["钦州", "历史文化"],
+        "dziUrl": "/assets/ebook/5-12.钦州1/5-12.钦州1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-12.钦州1.webp",
+        "thumbnail": "/assets/flags/5-12.钦州1.webp"
+      },
+      {
+        "id": "5-15",
+        "title": "钦州",
+        "description": "千年陶都，向海而兴",
+        "keywords": ["钦州", "陶瓷文化"],
+        "dziUrl": "/assets/ebook/5-13.钦州2/5-13.钦州2.dzi",
+        "webpUrl": "/assets/ebook/webp/5-13.钦州2.webp",
+        "thumbnail": "/assets/flags/5-13.钦州2.webp"
+      },
+      {
+        "id": "5-16",
+        "title": "贵港",
+        "description": "秦汉古郡，千年荷城",
+        "keywords": ["贵港", "荷文化", "历史古城"],
+        "dziUrl": "/assets/ebook/5-14.贵港1/5-14.贵港1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-14.贵港1.webp",
+        "thumbnail": "/assets/flags/5-14.贵港1.webp"
+      },
+      {
+        "id": "5-17",
+        "title": "贵港",
+        "description": "珠江西江经济带",
+        "keywords": ["西江经济带", "内河航运", "区域协同"],
+        "dziUrl": "/assets/ebook/5-14.贵港2/5-14.贵港2.dzi",
+        "webpUrl": "/assets/ebook/webp/5-14.贵港2.webp",
+        "thumbnail": "/assets/flags/5-14.贵港2.webp"
+      },
+      {
+        "id": "5-18",
+        "title": "玉林",
+        "description": "岭南美玉",
+        "keywords": ["玉林", "岭南文化"],
+        "dziUrl": "/assets/ebook/5-16.玉林/5-16.玉林.dzi",
+        "webpUrl": "/assets/ebook/webp/5-16.玉林.webp",
+        "thumbnail": "/assets/flags/5-16.玉林.webp"
+      },
+      {
+        "id": "5-19",
+        "title": "百色",
+        "description": "壮乡红城",
+        "keywords": ["百色", "红色文化"],
+        "dziUrl": "/assets/ebook/5-17.百色1/5-17.百色1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-17.百色1.webp",
+        "thumbnail": "/assets/flags/5-17.百色1.webp"
+      },
+      {
+        "id": "5-20",
+        "title": "百色",
+        "description": "俯瞰百色",
+        "keywords": ["百色", "山地城市"],
+        "dziUrl": "/assets/ebook/5-18.百色2/5-18.百色2.dzi",
+        "webpUrl": "/assets/ebook/webp/5-18.百色2.webp",
+        "thumbnail": "/assets/flags/5-18.百色2.webp"
+      },
+      {
+        "id": "5-21",
+        "title": "贺州",
+        "description": "俯瞰贺州",
+        "keywords": ["贺州", "生态城市"],
+        "dziUrl": "/assets/ebook/5-19.贺州1/5-19.贺州1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-19.贺州1.webp",
+        "thumbnail": "/assets/flags/5-19.贺州1.webp"
+      },
+      {
+        "id": "5-22",
+        "title": "贺州",
+        "description": "黄姚古镇建筑格局、古道路线示意图、古道遗址示意图",
+        "keywords": ["黄姚古镇", "古道文化"],
+        "dziUrl": "/assets/ebook/5-20.贺州2/5-20.贺州2.dzi",
+        "webpUrl": "/assets/ebook/webp/5-20.贺州2.webp",
+        "thumbnail": "/assets/flags/5-20.贺州2.webp"
+      },
+      {
+        "id": "5-23",
+        "title": "河池",
+        "description": "长寿河池",
+        "keywords": ["河池", "长寿之乡"],
+        "dziUrl": "/assets/ebook/5-21.河池1/5-21.河池1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-21.河池1.webp",
+        "thumbnail": "/assets/flags/5-21.河池1.webp"
+      },
+      {
+        "id": "5-24",
+        "title": "来宾",
+        "description": "来宾地形地貌",
+        "keywords": ["来宾", "地形地貌"],
+        "dziUrl": "/assets/ebook/5-22.来宾1/5-22.来宾1.dzi",
+        "webpUrl": "/assets/ebook/webp/5-22.来宾1.webp",
+        "thumbnail": "/assets/flags/5-22.来宾1.webp"
+      },
+      {
+        "id": "5-25",
+        "title": "崇左",
+        "description": "雄关胜境",
+        "keywords": ["崇左", "边关文化"],
+        "dziUrl": "/assets/ebook/5-23.崇左/5-23.崇左.dzi",
+        "webpUrl": "/assets/ebook/webp/5-23.崇左.webp",
+        "thumbnail": "/assets/flags/5-23.崇左.webp"
+      }
+    ]
+  }
+]
